@@ -3,7 +3,7 @@
 <h3> 😄: &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 🔭 &nbsp; I'm trainee member of the amazing Startup Aurem.
+- 🔭 &nbsp;
 - 🤔 &nbsp; Improve my knowledge, learn how to study in the best way
 - 🌱 &nbsp; I’m currently learning JavaScript and CSS to improve my FrontEnd
 - ⚡ &nbsp; Fun fact: I'm shy but also an extrovert person
